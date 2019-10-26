@@ -1,3 +1,4 @@
+#Creacion de certificados para que el firmware permita la virtualizacion
 vmware_user="XXXXX"
 vmware_path="/home/$vmware_user/vmware/"
 cd $vmware_path
